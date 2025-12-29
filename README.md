@@ -1,8 +1,3 @@
-# piano-flow-3dprint
-
-
-
-
 # Piano Key Flow Frame
 
 Parametric piano key sculpture that visualizes continuous melodies from angular geometric shapes.
